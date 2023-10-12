@@ -10,16 +10,10 @@ title: Computer Science Student
 
 My info goes here.
 
-## About My Mentor
+## Research Interests
 
-Mentor info goes here.
+research info goes here.
 
-## About My Project
+## Teaching Experience
 
-Project description goes here.
-
-[My Final Report](files/finalreport.pdf)
-
-## My Blog
-
-[My Blog](blog.html)
+teaching info goes here.
