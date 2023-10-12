@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: Kyra Gunluk
 title: Computer Science Student
 ---
 
