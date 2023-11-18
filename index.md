@@ -8,7 +8,7 @@ title: Computer Science Student
 
 ## About Me
 
-My info goes here.
+I am interested in research in Theoretical Computer Science.
 
 ## Research Interests
 
